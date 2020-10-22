@@ -8,13 +8,12 @@
  * regulations. User has the responsibility to obtain export licenses, or other 
  * export authority as may be required before exporting such information to 
  * foreign countries or providing access to foreign persons.
-
- * 
+ *
  * File:   memory_allocation_test.c
  * Author: anaim (aryan.e.naim@jpl.nasa.gov)
  * Created on August 4, 2020, 8:43 AM
  * 
- IMPORTANT: Must call kdtree_alloc() & kdtree_init() once before using the API.
+ * IMPORTANT: Must call kdtree_alloc() & kdtree_init() once before using the API.
  * In order to cleanup call kdtree_free(). 
  */
 
