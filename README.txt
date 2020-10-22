@@ -12,7 +12,7 @@ This was tested on Linux Ubuntu and Windows 10.
 2) Installation:
 
 IMPORTANT: make sure to check out the branch "kd_tree_rebuild_refactor"
-navigate to folder:/home/anaim/uprite_gitlab/lwr/c/mem_management 
+navigate to folder: /uprite_gitlab/lwr/c/mem_management 
 
 In order to integrate this library into your project just copy & paste kdtree.h
 and kdtree.c files into your project. 
